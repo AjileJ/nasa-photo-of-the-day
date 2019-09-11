@@ -7,7 +7,7 @@ const NasaCard = props => {
       <p><span>Title: </span>{props.title}</p>
       <p><span>Explanation: </span>{props.explanation}</p>
       </div>
-      <img className="imgg" src={props.hdurl} alt="spaceimg"/>
+      <img className="imgg App-logo" src={props.hdurl} alt="spaceimg"/>
       <div className="datecopy">
       <p><span className = "copyright">Date: </span>{props.date}</p>
       <p><span className = "copyright">CopyRight: </span>{props.copyright}</p>
