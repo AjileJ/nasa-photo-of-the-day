@@ -61,6 +61,12 @@ p {
 
 .copyright {
   font-size: 1.5rem;
+  margin: 0;
+  padding: 0;
+}
+.datecopy {
+  background:#bb4630;
+  padding: 1%;
 }
 
 

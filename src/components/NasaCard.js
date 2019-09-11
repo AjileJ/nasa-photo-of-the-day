@@ -8,8 +8,10 @@ const NasaCard = props => {
       <p><span>Explanation: </span>{props.explanation}</p>
       </div>
       <img className="imgg" src={props.hdurl} alt="spaceimg"/>
+      <div className="datecopy">
       <p><span className = "copyright">Date: </span>{props.date}</p>
       <p><span className = "copyright">CopyRight: </span>{props.copyright}</p>
+      </div>
     </div>
   );
 };
