@@ -8,7 +8,7 @@
   pointer-events: none;
 }
 .App-logo2{
-  animation: App-logo-spin infinite 30s linear;
+  animation: App-logo-spin infinite 20s linear;
   pointer-events:none;
 }
 
@@ -55,35 +55,13 @@
   background:black;
   padding:1%;
 }
-span {
-  font-size: 1.8rem;
-}
-.imgg {
-   height: 70vh;
-   border-radius: 50%;
-}
-p {
-  font-size: 1.3rem;
-  
-}
-.titleandex {
-  background: #42c1d8;
-  
-}
 
-.copyright {
-  font-size: 1.5rem;
-  margin: 0;
-  padding: 0;
-}
-.datecopy {
-  background:#bb4630;
-  padding: 1%;
-}
-p.explanation {
-  margin-left: 3%;
-  margin-right:3%;
-}
+
+
+
+
+
+
 
 
 

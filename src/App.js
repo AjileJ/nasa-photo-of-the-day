@@ -27,7 +27,7 @@ function App() {
   return (
     <div className="App">
       <div className="nav">
-        <img className="App-logo2" src = "https://i.imgur.com/NVLSZZd.png" alt="nasaphoto"/>
+        <img className="App-logo2" src = "https://i.imgur.com/CC8USjc.png" alt="nasaphoto"/>
         <a href="#">Home</a>
         <a href="#">Planets</a>
         <a href="#">About</a>
@@ -38,7 +38,7 @@ function App() {
       <Button type="warning">warning!</Button>
       <Button type="primary">Normal!</Button>
       <WrapperDiv>
-        <Redh1>Jordan's Styled Component</Redh1>
+        <Redh1>Jordan's Extra Styled Component</Redh1>
       </WrapperDiv>
     </div>
   );
