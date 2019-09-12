@@ -27,7 +27,7 @@ function App() {
   return (
     <div className="App">
       <div className="nav">
-        <img src = "components/img/nasa.jpg"/>
+        <img className="App-logo2" src = "https://i.imgur.com/NVLSZZd.png" alt="nasaphoto"/>
         <a href="#">Home</a>
         <a href="#">Planets</a>
         <a href="#">About</a>
